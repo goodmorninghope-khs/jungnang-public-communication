@@ -1,0 +1,10 @@
+interface:
+  display_name: 맛있는 커뮤니케이션
+  short_description: 이슈·정책을 모래시계 모델과 ROI로 기획하는 공공커뮤니케이션
+  default_prompt: $jungnang-public-communication으로 이 정책의 커뮤니케이션 기획안을 모래시계 모델과 ROI 관문으로 만들어 주세요.
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  allow_implicit_invocation: true
