@@ -51,3 +51,13 @@
 - 수치·연도는 쓰기 전에 최신 자료로 다시 확인합니다.
 - 선거운동이나 정치 성향별 표적 설득에 쓰지 않습니다. 게시·발송은 기관 결재를 거친 뒤에만 합니다.
 - `examples/`의 기획안은 내부 검토용 초안이며 중랑구의 공식 계획이 아닙니다.
+
+## 연계 (밸류체인)
+
+이 저장소는 [policy-media-desk](https://github.com/goodmorninghope-khs/policy-media-desk) 밸류체인의 **⑤ 확산** 고리다. 상태: 제안 (발행인 확인 후 실제로 이으면 '연계'로 바꾼다).
+
+- 받음: 내부 지면에서 무르익은 의제(출처 지면·닿는 공약 포함) → 주민 대상 공공커뮤니케이션 기획(모래시계 모델)
+- 넘김: 주민 반응 → ⑦ 되먹임
+- 넘길 때는 출처 지면(지면명·호수·날짜·링크)과 '닿는 공약'을 붙이고, 침은 의견으로 남긴다. 결정은 받는 고리의 책임자가 한다.
+
+전체 사슬: [references/value-chain.md](https://github.com/goodmorninghope-khs/policy-media-desk/blob/main/references/value-chain.md)
